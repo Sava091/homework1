@@ -2,8 +2,8 @@ package com.epam.training.javajunior.HW1;
 
 public class Task4 {
     public static void main(String[] args) {
-        int a = 5; // 1071
-        int b = 10; // 462
+        int a = 1071; // 1071
+        int b = 462; // 462
         int result = nod(a, b);
         System.out.println(result);
     }
